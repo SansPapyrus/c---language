@@ -3,7 +3,7 @@
 #include<fstream>
 #include<cstring>
 using namespace std;
-void compile(chat* filename)
+void compile(char* filename)
 {
 
 }
