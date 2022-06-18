@@ -25,7 +25,7 @@ int main(int args, char *argv[])
 			}
 			else
 			{
-				cout << "g--：" << argv[i] << " 打开失败。" << endl;
+				cout << "g--: " << argv[i] << " 打开失败。" << endl;
 			}
 			continue;
 		}
